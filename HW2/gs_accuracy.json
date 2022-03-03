@@ -1,0 +1,16 @@
+{
+    "KNeighborsClassifier(algorithm='kd_tree', n_neighbors=8, weights='distance')": [
+        1.0,
+        1.0,
+        0.8333333333333334,
+        0.9333333333333333,
+        0.8333333333333334
+    ],
+    "LogisticRegression(penalty='none')": [
+        1.0,
+        1.0,
+        0.8666666666666667,
+        0.9666666666666667,
+        0.7666666666666667
+    ]
+}
